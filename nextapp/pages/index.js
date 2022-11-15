@@ -277,7 +277,7 @@ export default function Home() {
                 );
 
                 return (
-                  <Table.Row>
+                  <Table.Row key={index}>
                     <Table.Cell>{index}</Table.Cell>
                     <Table.Cell>{val.nftTokenId.toString()}</Table.Cell>
                     <Table.Cell>{proposalDeadline.toString()}</Table.Cell>
