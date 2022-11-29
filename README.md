@@ -1,2 +1,2 @@
 # NFT-Voters-DAO
-DAO for Voters holding Crypto Devs NFT Collection
+DAO (Decentralized autonomous organization) for Voters holding Crypto Devs NFT Collection
